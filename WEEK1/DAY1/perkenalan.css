@@ -1,0 +1,15 @@
+/* Contoh isi style.css */
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: green;
+    font-size: 16px;
+}
